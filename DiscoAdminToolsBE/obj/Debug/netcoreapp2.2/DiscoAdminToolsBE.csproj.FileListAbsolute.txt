@@ -1,0 +1,14 @@
+D:\Software Projects\SalimOrtega.github.io\DiscoAdminToolsBE\bin\Debug\netcoreapp2.2\DiscoAdminToolsBE.deps.json
+D:\Software Projects\SalimOrtega.github.io\DiscoAdminToolsBE\bin\Debug\netcoreapp2.2\DiscoAdminToolsBE.runtimeconfig.json
+D:\Software Projects\SalimOrtega.github.io\DiscoAdminToolsBE\bin\Debug\netcoreapp2.2\DiscoAdminToolsBE.runtimeconfig.dev.json
+D:\Software Projects\SalimOrtega.github.io\DiscoAdminToolsBE\bin\Debug\netcoreapp2.2\DiscoAdminToolsBE.dll
+D:\Software Projects\SalimOrtega.github.io\DiscoAdminToolsBE\bin\Debug\netcoreapp2.2\DiscoAdminToolsBE.pdb
+D:\Software Projects\SalimOrtega.github.io\DiscoAdminToolsBE\obj\Debug\netcoreapp2.2\DiscoAdminToolsBE.csprojAssemblyReference.cache
+D:\Software Projects\SalimOrtega.github.io\DiscoAdminToolsBE\obj\Debug\netcoreapp2.2\DiscoAdminToolsBE.csproj.CoreCompileInputs.cache
+D:\Software Projects\SalimOrtega.github.io\DiscoAdminToolsBE\obj\Debug\netcoreapp2.2\DiscoAdminToolsBE.RazorAssemblyInfo.cache
+D:\Software Projects\SalimOrtega.github.io\DiscoAdminToolsBE\obj\Debug\netcoreapp2.2\DiscoAdminToolsBE.RazorAssemblyInfo.cs
+D:\Software Projects\SalimOrtega.github.io\DiscoAdminToolsBE\obj\Debug\netcoreapp2.2\DiscoAdminToolsBE.AssemblyInfoInputs.cache
+D:\Software Projects\SalimOrtega.github.io\DiscoAdminToolsBE\obj\Debug\netcoreapp2.2\DiscoAdminToolsBE.AssemblyInfo.cs
+D:\Software Projects\SalimOrtega.github.io\DiscoAdminToolsBE\obj\Debug\netcoreapp2.2\DiscoAdminToolsBE.RazorTargetAssemblyInfo.cache
+D:\Software Projects\SalimOrtega.github.io\DiscoAdminToolsBE\obj\Debug\netcoreapp2.2\DiscoAdminToolsBE.dll
+D:\Software Projects\SalimOrtega.github.io\DiscoAdminToolsBE\obj\Debug\netcoreapp2.2\DiscoAdminToolsBE.pdb
